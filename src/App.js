@@ -8,7 +8,7 @@ function App() {
         <input type="text" placeholder="Username" style={{ padding: '0.5rem' }} />
         <input type="password" placeholder="Password" style={{ padding: '0.5rem' }} />
         <button type="submit" style={{ padding: '0.5rem', backgroundColor: '#4CAF50', color: 'white', border: 'none' }}>
-          Login
+          Login button
         </button>
       </form>
     </div>
